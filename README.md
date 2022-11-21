@@ -16,4 +16,4 @@ kayıt edip sonra istenildiğinde listeden kayıt edilen yerlere bakabilmek
 - Serializable
 - SharedPreferences
 - Konum, galeri ve kamera izinleri
-- Küçük bitmap oluşturma
+- Küçük bitmap oluşturmak
