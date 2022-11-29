@@ -15,5 +15,5 @@ kayıt edip sonra istenildiğinde listeden kayıt edilen yerlere bakabilmek
 - Intent
 - Serializable
 - SharedPreferences
-- Konum, galeri ve kamera izinleri
-- Küçük bitmap oluşturmak
+- Manifest Permission(Gallery,Camera,Location)
+- Bitmap
